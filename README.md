@@ -6,6 +6,7 @@ Our goal is to create a site to aid students in the best way possible through ex
 
 ## Core Features
 There are four types of users: Guests, Students, Tutors, and Administrators
+
 Guests:
 * Guest users can sign up and create an account, as either a student, tutor or administrator.
 * Access to the homepage to view featured courses, ongoing promotions, featured reviews, and featured tutors.
