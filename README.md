@@ -1,5 +1,5 @@
 # SOEN342
-A repository for the Craigstutors learning Academy Site (part of SOEN 342 requirement project).
+A repository for the Craigstutors learning E-Academy Site (part of SOEN 342 requirement project).
 
 ## Objectives
 Our goal is to create a site to aid students in the best way possible through expert tutelage. Our AI-powered personality-matching algorithm matches your child with a tutor in order to provide our students with the best compatible assistance.
